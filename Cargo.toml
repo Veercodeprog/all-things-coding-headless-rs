@@ -6,3 +6,5 @@ members = [
     "admin-app",
     "app",
 ]
+
+[env]
