@@ -1,0 +1,11 @@
+/Users/veerpratap/Desktop/RUST/headless-cms-rs/target/debug/deps/libmatchit-1156f7fc80209025.rmeta: /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/lib.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/error.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/params.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/router.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/tree.rs
+
+/Users/veerpratap/Desktop/RUST/headless-cms-rs/target/debug/deps/libmatchit-1156f7fc80209025.rlib: /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/lib.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/error.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/params.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/router.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/tree.rs
+
+/Users/veerpratap/Desktop/RUST/headless-cms-rs/target/debug/deps/matchit-1156f7fc80209025.d: /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/lib.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/error.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/params.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/router.rs /Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/tree.rs
+
+/Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/lib.rs:
+/Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/error.rs:
+/Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/params.rs:
+/Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/router.rs:
+/Users/veerpratap/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/tree.rs:
