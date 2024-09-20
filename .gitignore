@@ -1,0 +1,36 @@
+# Rust specific
+/target/
+**/*.rs.bk
+**/*.log
+
+# Rust binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.a
+*.bin
+
+# Cargo lock file (if you prefer)
+Cargo.lock
+
+# IDE or Editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Backup files
+*~
+
